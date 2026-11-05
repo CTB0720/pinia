@@ -456,3 +456,5 @@ const myPlugin: Plugin = ({ $pinia }) => {
 
 export default myPlugin
 ```
+
+info: Nuxt和Nuxt 2这两个例子没有看出区别呢？页面上描述说使用的是 Nuxt 2，其类型会稍有不同，请问不同之处是？
